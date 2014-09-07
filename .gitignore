@@ -1,0 +1,6 @@
+/nbproject/
+/demo/nbproject
+/demo/assets/*
+/demo/protected/runtime/*
+/.git/
+/.htaccess
