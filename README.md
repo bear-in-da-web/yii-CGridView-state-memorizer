@@ -5,8 +5,6 @@ Yii CGridView state memorizer - Allows to remember state of the grid (with pagin
 
 It uses HTML5 local storage and it is very easy to implement it. You do not need to change controllers/models codes, only adjust codes of your views where cgridview is being used. 
 
-Author: Sergio G https://github.com/bearwebua/
-
 Installation:
 -------------
 
